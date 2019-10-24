@@ -1,17 +1,15 @@
 # Site settings
 title:          LEEJPP
-description:    "leejpp의 블로그"
 baseurl:        "/"
 url:            "https://leejpp.github.io"
 
-# Google Analytics
-google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
   name:         Jangpil Lee
   url:          'https://leejpp.github.io'
   email:        leejpp85@gmail.com
+  github:       leejpp
 
 # Build settings
 markdown:       kramdown
