@@ -1,7 +1,7 @@
 # Site settings
 title:          LEEJPP
 description:    "leejpp의 블로그"
-baseurl:        ""
+baseurl:        "https://leejpp.github.io"
 url:            "https://leejpp.github.io"
 
 # Google Analytics
